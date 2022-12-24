@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=bTDu4I-Ewlo
 - 3ª. Puede ejecutar el siguiente programa despues de haber descargado Java en su version 19 desde la terminal con el comando java -jar (fichero .jar) o dándole doble click en el archivo.
 
 Los enlaces para Java 19 son los siguientes:
-Windows - https://download.oracle.com/java/19/archive/jdk-19.0.1_windows-x64_bin.exe
-Linux Debian x64 - https://download.oracle.com/java/19/archive/jdk-19.0.1_linux-x64_bin.deb
-Linux RPM arm64 - https://download.oracle.com/java/19/archive/jdk-19.0.1_linux-aarch64_bin.rpm
-Linux RPM x64 - https://download.oracle.com/java/19/archive/jdk-19.0.1_linux-x64_bin.rpm
+- Windows - https://download.oracle.com/java/19/archive/jdk-19.0.1_windows-x64_bin.exe
+- Linux Debian x64 - https://download.oracle.com/java/19/archive/jdk-19.0.1_linux-x64_bin.deb
+- Linux RPM arm64 - https://download.oracle.com/java/19/archive/jdk-19.0.1_linux-aarch64_bin.rpm
+- Linux RPM x64 - https://download.oracle.com/java/19/archive/jdk-19.0.1_linux-x64_bin.rpm
